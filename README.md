@@ -7,8 +7,8 @@
 | Type         | Console-based, menu-driven      |
 | Storage      | Binary file (`books.dat`)       |
 | Course       | BCA — C Programming Project     |
-| Author       | [Your Name]                     |
-| Roll No.     | [Your Roll Number]              |
+| Author       | [Angit Damai]                     |
+| Roll No.     | [25530039]              |
 
 ---
 
